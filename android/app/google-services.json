@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "71884244819",
+    "firebase_url": "https://flash-chat-b2440.firebaseio.com",
+    "project_id": "flash-chat-b2440",
+    "storage_bucket": "flash-chat-b2440.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71884244819:android:7eeee21dc49d7e3862c3a6",
+        "android_client_info": {
+          "package_name": "co.manavmotwani.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71884244819-r7e17fags3kmkjhlbo84optl6b6tv6cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCemK7MQq-HVyPjQYfOdS1gyZMxhb6XNSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71884244819-r7e17fags3kmkjhlbo84optl6b6tv6cv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
